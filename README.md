@@ -1,8 +1,9 @@
+# SQL-Fundamentals-Database-Security-Basics
+
 ## About This Project
 This project is part of my hands-on cybersecurity learning journey as I transition into the field.
 
-# SQL-Fundamentals-Database-Security-Basics
-This lab introduced SQL queries and how databases are structured and accessed.
+It is based on the SQL Fundamentals lab from TryHackMe, focusing on database structure, querying, and security implications.
 
 ## Objectives
 - To understand database structure
@@ -16,6 +17,7 @@ This lab introduced SQL queries and how databases are structured and accessed.
 - SELECT statements
 - WHERE clauses
 - Filtering and sorting data
+- Pattern matching using LIKE
 
 ## Practical Tasks Performed
 - Queried database tables
